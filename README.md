@@ -88,7 +88,7 @@ Mock interviews offer simulated interview experiences, aiding in confidence-buil
 ## Contributing
 
 - This repository thrives on community contributions! If you have resources, tips, or advice to share, feel free to contribute by opening a pull request.
-- You can also fill out the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfzVsPvHiZRCtIhmAFrgtnGB79qaFUkITbK_VFuI3PzQZw5rg/formResponse) to provide feedback or suggest additions to the guide.
-- Feel free to open discussions for inquiries, suggestions, or any additional resources that could benefit other students.
+- You can also fill out the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfzVsPvHiZRCtIhmAFrgtnGB79qaFUkITbK_VFuI3PzQZw5rg/formResponse) to provide internships or suggest additions to the guide.
+- Feel free to open issues for discussions, inquiries, suggestions, or any additional resources that could benefit other students.
 
 
