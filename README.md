@@ -3,13 +3,25 @@
 Welcome to the Software Internship Guide for Egyptian Undergraduates repository! This guide aims to assist Egyptian undergraduate students in securing software internships during their academic journey. Whether you're studying computer science, engineering, or related fields, this repository is tailored to support you in navigating the internship application process effectively.
 
 ## Contents
-1. [Getting Started](#getting-started)
-2. [How to Land an Internship](#how-to-land-an-internship)
-3. [Resume and Cover Letter Resources](#resume-and-cover-letter-resources)
-4. [Displaying Projects on GitHub](#displaying-projects-on-github)
-5. [Getting a Referral](#getting-a-referral)
-6. [Prepare for Interviews](#prepare-for-interviews)
-7. [Contributing](#contributing)
+
+1. [Internships 2024](#internships-2024)
+2. [Getting Started](#getting-started)
+3. [How to Land an Internship](#how-to-land-an-internship)
+4. [Resume and Cover Letter Resources](#resume-and-cover-letter-resources)
+5. [Displaying Projects on GitHub](#displaying-projects-on-github)
+6. [Getting a Referral](#getting-a-referral)
+7. [Prepare for Interviews](#prepare-for-interviews)
+8. [Contributing](#contributing)
+
+## Internships 2024
+
+| Company                                   | Internship Title                              | Link                                                                                                | Location | Application Deadline |
+|-------------------------------------------|-----------------------------------------------|-----------------------------------------------------------------------------------------------------|----------|----------------------|
+| IBM                                       | IBM Technology Graduation Internship          | [Link](https://www.linkedin.com/jobs/view/3872219539)    | Cairo, EG | -                    |
+| Baker Hughes                              | LEAD Field Engineering Internship            | [Link](https://careers.bakerhughes.com/global/en/job/BAHUGLOBALR115534/Summer-LEAD-Field-Engineering-Internship-Egypt-2024-Opportunities?utm_source=linkedin&utm_medium=phenom-feeds) | Cairo, EG | -                    |
+| Jadeer                               | Fresh Tester Internship                            | [Link](https://www.careers-page.com/jadeer/job/LRWXV63R?utm_medium=free_job_board&utm_source=linkedin)                                                       | Cairo, EG | -                    |
+| Incorta                           | Graduate Intern - Professional Services | [Link](https://www.linkedin.com/jobs/view/3873089824) | Cairo, EG|-|
+|Tabby |IT Support Engineer Intern|[Link](https://tabby.pinpointhq.com/en/postings/6abfabdb-b819-4c4d-9bd1-c9cb886c1860)|Egypt|-|
 
 ## Getting Started
 
