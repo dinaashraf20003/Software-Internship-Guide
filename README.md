@@ -36,6 +36,7 @@ Welcome to the Software Internship Guide for Egyptian Undergraduates repository!
 | Siemens          | Calibre PE Internship 2024                                 | [Link](https://www.linkedin.com/posts/ahmed-hamed-44719120_calibre-product-management-team-in-cairo-activity-7179955129717059584-hhSW?utm_source=share&utm_medium=member_desktop)            | Cairo, Egypt          |
 | Webalo           | software development Intern                                | [link](https://www.facebook.com/groups/cs.jobs.internships/permalink/2445990605596817/?mibextid=WC7FNe)                                                                                      | Alexandria, Egypt     |
 | Lxt              | Intership Program                                          | [Link](https://bit.ly/3xcMqmd)                                                                                                                                                               | Cairo, Egypt          |
+| Valeo            | Intership Program                                          | [Link](https://docs.google.com/forms/d/e/1FAIpQLScJOAHFQ0ypcc4B4SpdxIVRGQ2Arg8XPHePQ__-Da8NTp-n-A/closedform)                                                                                | Cairo, Egypt          |
 
 ## Getting Started
 
