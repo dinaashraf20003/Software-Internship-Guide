@@ -18,6 +18,9 @@ Welcome to the Software Internship Guide for Egyptian Undergraduates repository!
 | Company                                   | Internship Title                              | Link                                                                                                | Location |
 |-------------------------------------------|-----------------------------------------------|-----------------------------------------------------------------------------------------------------|----------|
 | IBM                                       | IBM Technology Graduation Internship          | [Link](https://www.linkedin.com/jobs/view/3872219539)    | Cairo, Egypt |
+|IBM|Application Developer - Java & Web Technologies-Internship|[Link](https://www.linkedin.com/jobs/view/3879220445)|Cairo, Egypt |
+|IBM|Application Developer-Process Management (BPM)-Internship|[Link](https://www.linkedin.com/jobs/view/3884477610/?eBP=NON_CHARGEABLE_CHANNEL&refId=nlS5IK9FvZGRoQK3olnX%2FQ%3D%3D&trackingId=aiWPmFQUidl25LpfQKJFPA%3D%3D&trk=flagship3_search_srp_jobs)|Cairo, Egypt |
+|IBM|Salesforce Developer-Intern|[Link](https://www.linkedin.com/jobs/view/3880694981)|Cairo, Egypt |
 | Baker Hughes                              | LEAD Field Engineering Internship            | [Link](https://careers.bakerhughes.com/global/en/job/BAHUGLOBALR115534/Summer-LEAD-Field-Engineering-Internship-Egypt-2024-Opportunities?utm_source=linkedin&utm_medium=phenom-feeds) | Cairo, Egypt |
 | Jadeer                               | Fresh Tester Internship                            | [Link](https://www.careers-page.com/jadeer/job/LRWXV63R?utm_medium=free_job_board&utm_source=linkedin)                                                       | Cairo, Egypt | 
 | Incorta                           | Graduate Intern - Professional Services | [Link](https://www.linkedin.com/jobs/view/3873089824) | Cairo, Egypt|
@@ -30,6 +33,9 @@ Welcome to the Software Internship Guide for Egyptian Undergraduates repository!
 |Inova|BACK-END SUMMER INTERNSHIP|[Link](https://inovaeg.com/internship/back-end-summer-internship/)|Alexandria, Egypt|
 |Inova|FRONT-END SUMMER INTERNSHIP|[Link](https://inovaeg.com/internship/front-end-summer-internship/)|Alexandria, Egypt|
 |Inova|FLUTTER DEVELOPMENT SUMMER INTERNSHIP|[Link](https://inovaeg.com/internship/flutter-development-summer-internship/)|Alexandria, Egypt|
+|Siemens|Calibre PE Internship 2024|[Link](https://www.linkedin.com/posts/ahmed-hamed-44719120_calibre-product-management-team-in-cairo-activity-7179955129717059584-hhSW?utm_source=share&utm_medium=member_desktop)|Cairo, Egypt|
+|Webalo|software development Intern|[link](https://www.facebook.com/groups/cs.jobs.internships/permalink/2445990605596817/?mibextid=WC7FNe)|Alexandria, Egypt|
+
 
 
 
