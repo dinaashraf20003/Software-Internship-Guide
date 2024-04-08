@@ -15,13 +15,23 @@ Welcome to the Software Internship Guide for Egyptian Undergraduates repository!
 
 ## Internships 2024
 
-| Company                                   | Internship Title                              | Link                                                                                                | Location | Application Deadline |
-|-------------------------------------------|-----------------------------------------------|-----------------------------------------------------------------------------------------------------|----------|----------------------|
-| IBM                                       | IBM Technology Graduation Internship          | [Link](https://www.linkedin.com/jobs/view/3872219539)    | Cairo, EG | -                    |
-| Baker Hughes                              | LEAD Field Engineering Internship            | [Link](https://careers.bakerhughes.com/global/en/job/BAHUGLOBALR115534/Summer-LEAD-Field-Engineering-Internship-Egypt-2024-Opportunities?utm_source=linkedin&utm_medium=phenom-feeds) | Cairo, EG | -                    |
-| Jadeer                               | Fresh Tester Internship                            | [Link](https://www.careers-page.com/jadeer/job/LRWXV63R?utm_medium=free_job_board&utm_source=linkedin)                                                       | Cairo, EG | -                    |
-| Incorta                           | Graduate Intern - Professional Services | [Link](https://www.linkedin.com/jobs/view/3873089824) | Cairo, EG|-|
-|Tabby |IT Support Engineer Intern|[Link](https://tabby.pinpointhq.com/en/postings/6abfabdb-b819-4c4d-9bd1-c9cb886c1860)|Egypt|-|
+| Company                                   | Internship Title                              | Link                                                                                                | Location |
+|-------------------------------------------|-----------------------------------------------|-----------------------------------------------------------------------------------------------------|----------|
+| IBM                                       | IBM Technology Graduation Internship          | [Link](https://www.linkedin.com/jobs/view/3872219539)    | Cairo, Egypt |
+| Baker Hughes                              | LEAD Field Engineering Internship            | [Link](https://careers.bakerhughes.com/global/en/job/BAHUGLOBALR115534/Summer-LEAD-Field-Engineering-Internship-Egypt-2024-Opportunities?utm_source=linkedin&utm_medium=phenom-feeds) | Cairo, Egypt |
+| Jadeer                               | Fresh Tester Internship                            | [Link](https://www.careers-page.com/jadeer/job/LRWXV63R?utm_medium=free_job_board&utm_source=linkedin)                                                       | Cairo, Egypt | 
+| Incorta                           | Graduate Intern - Professional Services | [Link](https://www.linkedin.com/jobs/view/3873089824) | Cairo, Egypt|
+|Tabby |IT Support Engineer Intern|[Link](https://tabby.pinpointhq.com/en/postings/6abfabdb-b819-4c4d-9bd1-c9cb886c1860)|Egypt|
+|Xylem|Engineering Leadership Development|[Link](https://www.linkedin.com/jobs/view/3839972830)|Cairo, Egypt|
+|Procter & Gamble| Engineering/Manufacturing Summer'24 Internship- Undergrads|[Link](https://www.pgcareers.com/global/en/job/R000101050/Engineering-Manufacturing-Summer%252724-Internship--Undergrads?source=RS_LINKEDIN)|6th of October, Egypt|
+|Skill Farm|Data Science Analyst - Training Program|[Link](https://skillfarm.co/jobs/data-science-analyst-training-program-200526/?v=fbe46383db39)|Cairo, Egypt |
+|PwC Middle East | ETIC, Quality Intern|[Link](https://www.pwc.com/m1/en/careers/experienced-jobs/description.html?wdjobreqid=512919WD&wdcountry=EGY&wdjobsite=Global_Experienced_Careers&wdprog=&wdisu=)|Cairo, Egypt|
+|PwC|ETIC, UI/UX Intern|[Link](https://www.linkedin.com/jobs/view/3855176368)|Cairo, Egypt|
+|Inova|BACK-END SUMMER INTERNSHIP|[Link](https://inovaeg.com/internship/back-end-summer-internship/)|Alexandria, Egypt|
+|Inova|FRONT-END SUMMER INTERNSHIP|[Link](https://inovaeg.com/internship/front-end-summer-internship/)|Alexandria, Egypt|
+|Inova|FLUTTER DEVELOPMENT SUMMER INTERNSHIP|[Link](https://inovaeg.com/internship/flutter-development-summer-internship/)|Alexandria, Egypt|
+
+
 
 ## Getting Started
 
