@@ -64,6 +64,7 @@ Crafting polished resumes and cover letters is essential to make a compelling fi
 - [Resumake](https://resumake.io/)
 - [Canva](https://www.canva.com/templates/resumes/)
 - [overleaf](https://www.overleaf.com/latex/templates/tagged/cv)
+- [FlowCV](https://app.flowcv.com/)
 
 ### Cover Letter Templates:
 
@@ -100,6 +101,7 @@ Technical interviews play a crucial role in the internship application process, 
 - [HackerRank](https://www.hackerrank.com/)
 - [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/): Provides a comprehensive study plan for interview preparation.
+- [NeetCode](https://neetcode.io/): Problem solving roadmap.
 
 ### HR Interview Preparation
 
