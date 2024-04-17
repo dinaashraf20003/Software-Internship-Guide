@@ -53,6 +53,13 @@ Finding the right internship can be challenging, but with the right strategies, 
 - [Indeed](https://www.indeed.com/)
 - [Glassdoor](https://www.glassdoor.com/)
 
+### Groupchats:
+- Telegram
+    + [ECE Interns](https://t.me/INTERNS_ECE24)
+    + [Internships](https://t.me/cs_internships)
+- Facebook
+    + [Programming. Interships & Courses](https://www.facebook.com/groups/1317036005814497)
+
 ## Resume and Cover Letter Resources
 
 Crafting polished resumes and cover letters is essential to make a compelling first impression. Utilize online resources and tools to refine your application materials and tailor them to specific internship opportunities.
