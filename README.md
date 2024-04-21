@@ -38,6 +38,10 @@ Welcome to the Software Internship Guide for Egyptian Undergraduates repository!
 | Lxt              | Intership Program                                          | [Link](https://bit.ly/3xcMqmd)                                                                                                                                                               | Cairo, Egypt          |
 | Valeo            | Intership Program                                          | [Link](https://docs.google.com/forms/d/e/1FAIpQLScJOAHFQ0ypcc4B4SpdxIVRGQ2Arg8XPHePQ__-Da8NTp-n-A/closedform)                                                                                | Cairo, Egypt          |
 |BARQ Systems| Cyber Security Internship | [Link](https://www.linkedin.com/posts/barqsystems_barqsystems-internshipprogram-qualityeducation-activity-7183414838574927872-RSOX?utm_source=share&utm_medium=member_desktop)|-|
+|Siemens| Siemens Best-in-Class Summer Internship Program 2024| [Link](https://jobs.siemens.com/careers/job/563156119353986?microsite=siemens.com) |Cairo, Egypt |
+|ITI| ITI Cybersecurity Academy - Beginners (Training) | [Link](https://maharatech.gov.eg/mod/page/view.php?id=14058)|- |
+|League od Arab States| Summer Internship | [Link](http://www.leagueofarabstates.net/ar/Sectors/Dep/Pages/ActivityDetails.aspx?ReID=2523&RID=45&SID=8)|Cairo, Egypt|
+|CyTwin Lab| Summer Internship|[Link](https://www.linkedin.com/posts/ashraf-salem-7716067_cytwin-lab-summer-internship-2024-activity-7186429293114114048-vtvZ?utm_source=share&utm_medium=member_desktop)|Cairo, Egypt|
 
 ## Getting Started
 
