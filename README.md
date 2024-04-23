@@ -42,6 +42,7 @@ Welcome to the Software Internship Guide for Egyptian Undergraduates repository!
 |ITI| ITI Cybersecurity Academy - Beginners (Training) | [Link](https://maharatech.gov.eg/mod/page/view.php?id=14058)|- |
 |League od Arab States| Summer Internship | [Link](http://www.leagueofarabstates.net/ar/Sectors/Dep/Pages/ActivityDetails.aspx?ReID=2523&RID=45&SID=8)|Cairo, Egypt|
 |CyTwin Lab| Summer Internship|[Link](https://www.linkedin.com/posts/ashraf-salem-7716067_cytwin-lab-summer-internship-2024-activity-7186429293114114048-vtvZ?utm_source=share&utm_medium=member_desktop)|Cairo, Egypt|
+|IBM|Software Technical Support Internship|[Link](https://www.linkedin.com/posts/mostafa-mahmoud-32740564_ibm-referrals-activity-7188184119212703744-kyi6?utm_source=share&utm_medium=member_desktop)|Cairo, Egypt|
 
 ## Getting Started
 
