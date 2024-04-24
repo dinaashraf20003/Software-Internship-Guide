@@ -43,6 +43,11 @@ Welcome to the Software Internship Guide for Egyptian Undergraduates repository!
 |League od Arab States| Summer Internship | [Link](http://www.leagueofarabstates.net/ar/Sectors/Dep/Pages/ActivityDetails.aspx?ReID=2523&RID=45&SID=8)|Cairo, Egypt|
 |CyTwin Lab| Summer Internship|[Link](https://www.linkedin.com/posts/ashraf-salem-7716067_cytwin-lab-summer-internship-2024-activity-7186429293114114048-vtvZ?utm_source=share&utm_medium=member_desktop)|Cairo, Egypt|
 |IBM|Software Technical Support Internship|[Link](https://www.linkedin.com/posts/mostafa-mahmoud-32740564_ibm-referrals-activity-7188184119212703744-kyi6?utm_source=share&utm_medium=member_desktop)|Cairo, Egypt|
+|Giza Systems| Summer Internship | [Link](https://www.facebook.com/story.php?story_fbid=10159760223582596&id=571397595&mibextid=qi2Omg&rdid=8G66FBy7PZmCymTl&paipv=0&eav=AfbS8KS38g_Bi2uHf-YLIOjG1esTVjH0IBpbS5lpDNL45M71lOxmKf28Y9WfeDa-H8c&_rdr)|Cairo, Egypt|
+|Siemens | Software Engineering Internship Position at CSD| [Link](https://www.linkedin.com/posts/mohned-mohamed-022903128_google-forms-sign-in-activity-7188849580195667970-lHYC?utm_source=share&utm_medium=member_desktop)|Cairo, Egypt|
+|Siemens| Software Engineering Internship HAV|[Link](https://www.linkedin.com/posts/mohamed-al-ansary_software-engineering-internship-hardware-activity-7188489996624945154-lFqy?utm_source=share&utm_medium=member_desktop)|Cairo, Egypt|
+|Arbisoft| Summer Internship|[Link](https://www.linkedin.com/posts/hasnain3142_arbisoft-summerinternship-techcareers-activity-7188476763230920707-9r7V?utm_source=share&utm_medium=member_desktop)|-|
+
 
 ## Getting Started
 
