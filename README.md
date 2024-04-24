@@ -47,6 +47,7 @@ Welcome to the Software Internship Guide for Egyptian Undergraduates repository!
 |Siemens | Software Engineering Internship Position at CSD| [Link](https://www.linkedin.com/posts/mohned-mohamed-022903128_google-forms-sign-in-activity-7188849580195667970-lHYC?utm_source=share&utm_medium=member_desktop)|Cairo, Egypt|
 |Siemens| Software Engineering Internship HAV|[Link](https://www.linkedin.com/posts/mohamed-al-ansary_software-engineering-internship-hardware-activity-7188489996624945154-lFqy?utm_source=share&utm_medium=member_desktop)|Cairo, Egypt|
 |Arbisoft| Summer Internship|[Link](https://www.linkedin.com/posts/hasnain3142_arbisoft-summerinternship-techcareers-activity-7188476763230920707-9r7V?utm_source=share&utm_medium=member_desktop)|-|
+|Vodafone| Summer Internship|[Link](https://opportunities.vodafone.com/job/Cairo-Vodanation-Summer-Internship-Program-2024/1064535301/)|Cairo, Egypt|
 
 
 ## Getting Started
