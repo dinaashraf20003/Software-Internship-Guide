@@ -48,7 +48,10 @@ Welcome to the Software Internship Guide for Egyptian Undergraduates repository!
 |Siemens| Software Engineering Internship HAV|[Link](https://www.linkedin.com/posts/mohamed-al-ansary_software-engineering-internship-hardware-activity-7188489996624945154-lFqy?utm_source=share&utm_medium=member_desktop)|Cairo, Egypt|
 |Arbisoft| Summer Internship|[Link](https://www.linkedin.com/posts/hasnain3142_arbisoft-summerinternship-techcareers-activity-7188476763230920707-9r7V?utm_source=share&utm_medium=member_desktop)|-|
 |Vodafone| Summer Internship|[Link](https://opportunities.vodafone.com/job/Cairo-Vodanation-Summer-Internship-Program-2024/1064535301/)|Cairo, Egypt|
-
+|Ejada| Summer Internship|[Link](https://www.linkedin.com/posts/%F0%9F%87%AF%F0%9F%87%B4yousuf-mohammed%F0%9F%87%AF%F0%9F%87%B4-695339198_google-forms-sign-in-activity-7192944271476342784-DP8F?utm_source=share&utm_medium=member_desktop)|-|
+|Giza Systems|Headway Intern|[Link](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2024-software-development-center-5085807/)|Cairo, Egypt|
+|Nestle|Summer Internship|[Link](https://www.nestle-mena.com/en/jobs/students-graduates/nesternship)|Cairo, Egypt|
+|VxLabs|Summer Internship|[Link](https://vxlabs.zohorecruit.eu/jobs/Careers/50516000002716005/VxLabs-Summer-Internship-Program-2024---Cairo-Calling-All-Tech-Savvy-Students?source=Google&t=750)|Giza, Egypt|
 
 ## Getting Started
 
