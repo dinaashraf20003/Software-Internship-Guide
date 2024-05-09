@@ -17,6 +17,7 @@ Welcome to the Software Internship Guide for Egyptian Undergraduates repository!
 
 | Company          | Internship Title                                           | Link                                                                                                                                                                                         | Location              |
 | ---------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+|Instabug | Backend Internship|[Link](https://instabug.bamboohr.com/careers/63)|Cairo, Egypt|
 |Eventum| Summer Internship|[Link](http://eventumsolutions.com/careers/)|-|
 | Vehiclevo              | Embedded systems internship                       | [Link](https://www.linkedin.com/posts/mohamed-ibrahim0000_copied-activity-7193632211860938752-dr61?utm_source=share&utm_medium=member_desktop)                                                                                                                                        | Egypt          |
 | Huawei              | BO Software Engineer internship                      | [Link](https://www.linkedin.com/jobs/view/3916749052)                                                                                                                                        | Cairo, Egypt          |
