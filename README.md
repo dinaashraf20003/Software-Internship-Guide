@@ -17,6 +17,10 @@ Welcome to the Software Internship Guide for Egyptian Undergraduates repository!
 
 | Company          | Internship Title                                           | Link                                                                                                                                                                                         | Location              |
 | ---------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+|Sony| Data Science Intern|[Link](https://www.linkedin.com/jobs/view/3917526117)| Remote|
+|MCV| Summer Internship|[Link](https://www.linkedin.com/posts/loay-kamal_mcv-summerabrinternship-ugcPost-7194345366165585920-DOK9?utm_source=share&utm_medium=member_desktop)|Cairo, Egypt|
+|Trianglz| Summer Internship|[Link](https://www.linkedin.com/posts/trianglz_trianglz-nowabrinabrtrianglz-softwarecareers-activity-7194377491321339905-wv3N?utm_source=share&utm_medium=member_desktop)|Egypt|
+|Etislat|Summer Internship|[Link](https://www.linkedin.com/posts/etisalat-egypt_aebaepaeqaeqabraeqaeraesaeyaez-activity-7194350467697491968-yr-v?utm_source=share&utm_medium=member_desktop)|Egypt|
 |eSpace |Announcing eSpace Summer Internship 2024)|[Link](https://espace.com.eg/blog/announcing-espace-summer-internship-2024/)|-|
 |Mercedes-Benz Egypt |2024 Graduate Internships|[Link](https://www.linkedin.com/jobs/view/3919633251/)|New Cairo, Cairo, Egypt|
 |Instabug | Backend Internship|[Link](https://instabug.bamboohr.com/careers/63)|Cairo, Egypt|
