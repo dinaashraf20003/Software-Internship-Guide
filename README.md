@@ -17,6 +17,8 @@ Welcome to the Software Internship Guide for Egyptian Undergraduates repository!
 
 | Company          | Internship Title                                           | Link                                                                                                                                                                                         | Location              |
 | ---------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+|eSpace |Announcing eSpace Summer Internship 2024)|[Link](https://espace.com.eg/blog/announcing-espace-summer-internship-2024/)|-|
+|Mercedes-Benz Egypt |2024 Graduate Internships|[Link](https://www.linkedin.com/jobs/view/3919633251/)|New Cairo, Cairo, Egypt|
 |Instabug | Backend Internship|[Link](https://instabug.bamboohr.com/careers/63)|Cairo, Egypt|
 |Eventum| Summer Internship|[Link](http://eventumsolutions.com/careers/)|-|
 | Vehiclevo              | Embedded systems internship                       | [Link](https://www.linkedin.com/posts/mohamed-ibrahim0000_copied-activity-7193632211860938752-dr61?utm_source=share&utm_medium=member_desktop)                                                                                                                                        | Egypt          |
