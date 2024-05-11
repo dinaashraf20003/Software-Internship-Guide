@@ -17,6 +17,7 @@ Welcome to the Software Internship Guide for Egyptian Undergraduates repository!
 
 | Company          | Internship Title                                           | Link                                                                                                                                                                                         | Location              |
 | ---------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+|Identity Solutions| Internship| [Link](https://docs.google.com/forms/d/e/1FAIpQLSeH_IihRPfqXsnjau4CkNQBZWLaX1IvX6vwbuN4D9t1SIMp9Q/viewform)|Egypt| 
 |Sony| Data Science Intern|[Link](https://www.linkedin.com/jobs/view/3917526117)| Remote|
 |MCV| Summer Internship|[Link](https://www.linkedin.com/posts/loay-kamal_mcv-summerabrinternship-ugcPost-7194345366165585920-DOK9?utm_source=share&utm_medium=member_desktop)|Cairo, Egypt|
 |Trianglz| Summer Internship|[Link](https://www.linkedin.com/posts/trianglz_trianglz-nowabrinabrtrianglz-softwarecareers-activity-7194377491321339905-wv3N?utm_source=share&utm_medium=member_desktop)|Egypt|
