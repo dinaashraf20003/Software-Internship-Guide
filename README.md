@@ -17,6 +17,10 @@ Welcome to the Software Internship Guide for Egyptian Undergraduates repository!
 
 | Company          | Internship Title                                           | Link                                                                                                                                                                                         | Location              |
 | ---------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+|Schneider Electric| Summer Internship| [Link](https://www.se.com/ww/en/about-us/careers/job-details/nextgen-summer-internship-program-2024---neal/008WZS/?utm_source=facebook&utm_medium=organic_social&utm_campaign=2024_may_eg_allbu_employer&campaign_objective=awareness&mcl_name=employer)| Cairo, Egypt|
+|Quadova| Odoo Developer Internship|[Link](https://www.linkedin.com/posts/quadova_job-title-junior-odoo-developer-internship-activity-7195190738047889408-xcLI?utm_source=share&utm_medium=member_desktop)| Alexandria, Egypt|
+|Synapse Analytics| Internship|[Link](https://synapseanalytics.recruitee.com/)|Egypt|
+|Valify Solutions| Internship|[Link](https://docs.google.com/forms/d/19VKCUDcx16EuoPxGXrd19YsZR6Y3ckzZHoh8MqGfqmU/viewform?ts=6640825e&edit_requested=true)|Egypt|
 |Identity Solutions| Internship| [Link](https://docs.google.com/forms/d/e/1FAIpQLSeH_IihRPfqXsnjau4CkNQBZWLaX1IvX6vwbuN4D9t1SIMp9Q/viewform)|Egypt| 
 |Sony| Data Science Intern|[Link](https://www.linkedin.com/jobs/view/3917526117)| Remote|
 |MCV| Summer Internship|[Link](https://www.linkedin.com/posts/loay-kamal_mcv-summerabrinternship-ugcPost-7194345366165585920-DOK9?utm_source=share&utm_medium=member_desktop)|Cairo, Egypt|
