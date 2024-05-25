@@ -17,6 +17,9 @@ Welcome to the Software Internship Guide for Egyptian Undergraduates repository!
 
 | Company          | Internship Title                                           | Link                                                                                                                                                                                         | Location              |
 | ---------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+|Incorta| Summer Internship|[Link](https://jobs.lever.co/incorta/3bc8369b-3aab-4d79-abd3-86aefffb28c7/apply)|Egypt|
+|El Sweedy Industries| Summer Internship|[Link](https://internships.elsewedy-ind.com/)|Egypt|
+|Itidia| Summer Internship|[Link](https://itida.gov.eg/English/Programs/Summer-Internships/Pages/default.aspx)|Egypt|
 |Schneider Electric| Summer Internship| [Link](https://www.se.com/ww/en/about-us/careers/job-details/nextgen-summer-internship-program-2024---neal/008WZS/?utm_source=facebook&utm_medium=organic_social&utm_campaign=2024_may_eg_allbu_employer&campaign_objective=awareness&mcl_name=employer)| Cairo, Egypt|
 |Quadova| Odoo Developer Internship|[Link](https://www.linkedin.com/posts/quadova_job-title-junior-odoo-developer-internship-activity-7195190738047889408-xcLI?utm_source=share&utm_medium=member_desktop)| Alexandria, Egypt|
 |Synapse Analytics| Internship|[Link](https://synapseanalytics.recruitee.com/)|Egypt|
