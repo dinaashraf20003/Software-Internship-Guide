@@ -17,6 +17,7 @@ Welcome to the Software Internship Guide for Egyptian Undergraduates repository!
 
 | Company          | Internship Title                                           | Link                                                                                                                                                                                         | Location              |
 | ---------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+|VOIS|Summer Internship|[Link](https://opportunities.vodafone.com/job/Cairo-_VOIS-Explore-Internship-Programme-2024/1074908901/)|Egypt|
 |Incorta| Summer Internship|[Link](https://jobs.lever.co/incorta/3bc8369b-3aab-4d79-abd3-86aefffb28c7/apply)|Egypt|
 |El Sweedy Industries| Summer Internship|[Link](https://internships.elsewedy-ind.com/)|Egypt|
 |Itidia| Summer Internship|[Link](https://itida.gov.eg/English/Programs/Summer-Internships/Pages/default.aspx)|Egypt|
