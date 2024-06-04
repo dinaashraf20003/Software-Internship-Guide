@@ -17,6 +17,7 @@ Welcome to the Software Internship Guide for Egyptian Undergraduates repository!
 
 | Company          | Internship Title                                           | Link                                                                                                                                                                                         | Location              |
 | ---------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+|Thndr|Summer Internship|[Link](https://www.linkedin.com/posts/thndrapp_were-excited-to-launch-our-thndr-rise-summer-activity-7202958520932044801-n9Bj?utm_source=share&utm_medium=member_desktop)|Egypt|
 |Pepsico|Summer Internship|[Link](https://www.pepsicojobs.com/main/jobs?location=Egypt&woe=12&stretchUnit=MILES&stretch=10&page=1&keywords=dare%20summer%20internship&sortBy=relevance)|Egypt|
 |El Sweedy Electric|Summer Internship|[Link](https://elsewedyelectric.taleo.net/careersection/swd_summer_internship/jobsearch.ftl?lang=en&portal=18116760768&fbclid=PAZXh0bgNhZW0CMTEAAabnotS6bP65GixM7xOPiyvSj94TBBLuCTelmN4SjEZfT0yULv1jpIUC54Y_aem_AWp_cSFq-_FGZdfdbei50piOlyzQ-rEef3-ZaGv15KXiLiQf4II1XJJi0cqpBTcWggZ04E-2_HMRdsUCoEiAtNhp)|Egypt|
 |Brightskies|Summer Internship|[Link](https://www.facebook.com/share/ncfHQVjmWA59EU1H/?mibextid=WC7FNe)|Egypt|
