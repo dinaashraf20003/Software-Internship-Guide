@@ -84,6 +84,7 @@ Welcome to the Software Internship Guide for Egyptian Undergraduates repository!
 |Giza Systems|Headway Intern|[Link](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2024-software-development-center-5085807/)|Cairo, Egypt|
 |Nestle|Summer Internship|[Link](https://www.nestle-mena.com/en/jobs/students-graduates/nesternship)|Cairo, Egypt|
 |VxLabs|Summer Internship|[Link](https://vxlabs.zohorecruit.eu/jobs/Careers/50516000002716005/VxLabs-Summer-Internship-Program-2024---Cairo-Calling-All-Tech-Savvy-Students?source=Google&t=750)|Giza, Egypt|
+|Money Fellows|Frontend Engineer- Intern|[Link](https://www.linkedin.com/jobs/view/3959735608)|Cairo, Egypt|
 
 ## Getting Started
 
