@@ -85,6 +85,7 @@ Welcome to the Software Internship Guide for Egyptian Undergraduates repository!
 |Nestle|Summer Internship|[Link](https://www.nestle-mena.com/en/jobs/students-graduates/nesternship)|Cairo, Egypt|
 |VxLabs|Summer Internship|[Link](https://vxlabs.zohorecruit.eu/jobs/Careers/50516000002716005/VxLabs-Summer-Internship-Program-2024---Cairo-Calling-All-Tech-Savvy-Students?source=Google&t=750)|Giza, Egypt|
 |Money Fellows|Frontend Engineer- Intern|[Link](https://www.linkedin.com/jobs/view/3959735608)|Cairo, Egypt|
+|Paymob|Sales- Intern|[Link](https://www.linkedin.com/posts/nouran-sherif-00b625225_salesinternship-paidinternship-paymob-activity-7213862215248994304-9wRc?utm_source=share&utm_medium=member_android)|Cairo, Egypt|
 
 ## Getting Started
 
