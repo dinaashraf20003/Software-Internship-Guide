@@ -17,6 +17,8 @@ Welcome to the Software Internship Guide for Egyptian Undergraduates repository!
 
 | Company          | Internship Title                                           | Link                                                                                                                                                                                         | Location              |
 | ---------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+|Siemens|Summer Internship|[Link](https://lnkd.in/dTvJGMmt)|Cairo, Egypt|
+|Si-Vision|Internship|[Link](https://shorturl.at/D89KZ)|Cairo, Egypt|
 |Dell| Dell Summer Academy|[Link](https://www.linkedin.com/posts/miraehab_mysummerwithdell-technology-it-activity-7205875641420771328-rs1J?utm_source=share&utm_medium=member_desktop)|Cairo,Egypt|
 |Orange Business| Summer Internship|[Link](https://www.linkedin.com/posts/habiba-mourad-37649619a_summerinternship-internlife-internshipexperience-ugcPost-7204811917788459008-pQo0?utm_source=share&utm_medium=member_desktop)|Egypt|
 |Swift Act|Embedded Internship|[Link](https://www.linkedin.com/posts/swift-act_embeddedsystems-embeddedengineering-embeddedtechnology-activity-7204430583165259776-kHsv?utm_source=share&utm_medium=member_desktop)|Egypt|
