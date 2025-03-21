@@ -4,7 +4,7 @@ Welcome to the Software Internship Guide for Egyptian Undergraduates repository!
 
 ## Contents
 
-1. [Internships 2025](#internships-2025)
+1. [Internships 2025](##internships-2025)
 2. [Getting Started](#getting-started)
 3. [How to Land an Internship](#how-to-land-an-internship)
 4. [Resume and Cover Letter Resources](#resume-and-cover-letter-resources)
@@ -12,7 +12,7 @@ Welcome to the Software Internship Guide for Egyptian Undergraduates repository!
 6. [Getting a Referral](#getting-a-referral)
 7. [Prepare for Interviews](#prepare-for-interviews)
 8. [Contributing](#contributing)
-9. [Archived Internships 2024](#internships-2024)
+9. [Archived Internships](#internships-2024)
 
 ## Internships 2025
 
@@ -146,7 +146,7 @@ Mock interviews offer simulated interview experiences, aiding in confidence-buil
 - This repository thrives on community contributions! If you have resources, tips, or advice to share, feel free to contribute by opening a pull request.
 - You can also fill out the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfzVsPvHiZRCtIhmAFrgtnGB79qaFUkITbK_VFuI3PzQZw5rg/formResponse) to provide internships or suggest additions to the guide.
 - Feel free to open issues for discussions, inquiries, suggestions, or any additional resources that could benefit other students.
-
+# Archived Internships
 ## Internships 2024
 
 | Company          | Internship Title                                           | Link                                                                                                                                                                                         | Location              |
