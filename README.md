@@ -4,7 +4,7 @@ Welcome to the Software Internship Guide for Egyptian Undergraduates repository!
 
 ## Contents
 
-1. [Internships 2025](##internships-2025)
+1. [Internships 2026](##internships-2026)
 2. [Getting Started](#getting-started)
 3. [How to Land an Internship](#how-to-land-an-internship)
 4. [Resume and Cover Letter Resources](#resume-and-cover-letter-resources)
@@ -14,39 +14,24 @@ Welcome to the Software Internship Guide for Egyptian Undergraduates repository!
 8. [Contributing](#contributing)
 9. [Archived Internships](#internships-2024)
 
-## Internships 2025
+## Internships 2026
 
 | Company          | Internship Title                                           | Link                                                                                                                                                                                         | Location              |
 | ---------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
-|Advansys|Software Engineer Internship|[Link](https://www.linkedin.com/jobs/view/4161429992/)|Cairo, Egypt|
-|Capgemini|Young Professionals Program|[Link](https://www.linkedin.com/posts/rana-magdy-a05303184_fill-young-professionals-program-application-activity-7287055400690970624-Pnll/?utm_source=share&utm_medium=member_ios)|Cairo, Egypt|
-|Sumerge|Software Engineer Talent Program|[Link](https://apply.workable.com/sumerge-1/j/3E3E9AB6D4/)|Cairo, Egypt|
-|Woven by Toyota|Research Scientist, Computer Vision and Generative Models, Vision AI (Internship)|[Link](https://jobs.lever.co/woven-by-toyota/042e35e9-607b-4bf0-8786-e53768010a5b/apply)|Tokyo, Japan|
-|Google Summer of Code|Contribution/Mentorship Program|[Link](https://summerofcode.withgoogle.com/)|Remote|
-|PWC|ETIC, Full stack Developer- Graduate Program|[Link](https://www.linkedin.com/jobs/view/4029805426)|Cairo, Egypt|
-|PWC|ETIC, Winter Internship Program - Project Management|[Link](https://www.linkedin.com/jobs/view/4081767524)|Cairo, Egypt|
-|Bayantech|Frontend React.js Internship|[Link](https://www.linkedin.com/jobs/view/4169173248)|Cairo, Egypt|
-|Bayantech|Backend Node.JS Internship|[Link](https://www.linkedin.com/jobs/view/4169166921)|Cairo, Egypt|
-|Didi|Web & Store Intern|[Link](https://www.linkedin.com/jobs/view/4183688404)|Cairo, Egypt|
-|Jumia|Internship Program - Java Developer|[Link](https://www.linkedin.com/jobs/view/4109280112)|Cairo, Egypt|
-|Jumia|Software Engineer Internship Global Program|[Link](https://www.linkedin.com/jobs/view/4110266446)|Cairo, Egypt|
-|Siemens|Fit4Rail Summer Internship 2025|[Link](https://www.linkedin.com/jobs/view/4133086533)|Cairo, Egypt|
-|Siemens|Working Student|[Link](https://www.linkedin.com/jobs/view/4171475634)|Cairo, Egypt|
-|Cisco|ASIC Engineer - Full time Summer internship |[Link](https://www.linkedin.com/jobs/view/4104640320)|Cairo, Egypt|
-|Oracle|Graduate Associate Engineer|[Link](https://www.linkedin.com/jobs/view/4169633882)|Cairo, Egypt|
-|Canonical|Graduate Software Engineer|[Link](https://www.linkedin.com/jobs/view/4180956949)|Cairo, Egypt|
-|Arcsen|Internship Program|[Link](https://www.linkedin.com/jobs/view/4098079887)|Cairo, Egypt|
-|Blink22|UI/UX Design Intern|[Link](https://www.linkedin.com/jobs/view/4090264521)|Cairo, Egypt|
-|Remotecoders|Internship Program|[Link](https://www.linkedin.com/posts/remotecoders-mena_vulnerable-talents-tech-activity-7307679074880020481-Q5EO?utm_source=share&utm_medium=member_desktop&rcm=ACoAADf-4-QBS1UGcLbX54TIGqpMv3miqWSq5F0)|Cairo, Egypt|
-
-
-
-
-
-
-
-
-
+|Nawy|Summer 2026 Internship|[Link](https://apply.workable.com/nawy-real-estate/j/2B232AF219/?utm_campaign=fe92079c80&utm_medium=eps&utm_source=link)|Cairo, Egypt|
+|Thndr|Data Engineering Intern - Graduate Program|[Link](https://jobs.ashbyhq.com/thndr/b72bcec0-c11d-42a5-a0e1-56bee1b9e619?departmentId=03ca7406-6205-4fc8-82e1-48f08c77a22c)|Cairo, Egypt|
+|Paymob|Tech Internship 2026|[Link](https://app.recruitera.ai/version-live/job/tech-internship-2026-paymob-cairo-egypt-4300?ref=TH0nYHUM&igbTracker=915580775)|Cairo, Egypt|
+|Siemens|SSP - R&D AI/ML Development Intern|[Link](https://jobs.siemens.com/en_US/externaljobs/JobDetail/504471?source=LinkedIn&sourceType=PREMIUM_POST_SITE)|Cairo, Egypt|
+|Siemens|SSP - R&D Software Development Intern|[Link](https://jobs.siemens.com/en_US/externaljobs/JobDetail/504687?source=LinkedIn&sourceType=PREMIUM_POST_SITE)|Cairo, Egypt|
+|e-finance|Summer Internship Program 2026|[Link](https://careers.efinanceinvestment.com/eFinance/job/Giza-e-finance-Summer-Internship-Program-2026/1361430457/?utm_campaign=LinkedinJobPostings&utm_source=LinkedinJobPostings&applySourceOverride=LinkedIn)|Egypt|
+|Flash|Software Engineer Intern|[Link](https://flash.applytojob.com/apply/wdzFxqhLG1/Software-Engineer-Intern?source=LILI)|Cairo, Egypt|
+|Amazon|2026 Applied Scientist Intern|[Link](https://www.amazon.jobs/en/jobs/10385882/2026-applied-scientist-intern-amazon-university-talent-acquisition?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com)|Cairo, Egypt|
+|Talabat|Engineering Graduate Program - Internship|[Link](https://www.linkedin.com/jobs/view/4414480044/)|Cairo, Egypt|
+|Electrolux Group|Summer Internship 2026|[Link](https://www.linkedin.com/jobs/view/4411599673/)|Cairo, Egypt|
+|Ericsson|AI Engineering Intern|[Link](https://jobs.ericsson.com/careers/job/563121775970849?domain=ericsson.com&jobPipeline=LinkedIn)|Cairo, Egypt|
+|SAP|Summer Internship 2026|[Link](https://jobs.sap.com/job/Cairo-SAP-Summer-Internship-Program-%282-months-duration%29-11865/1393865833/?feedId=384233&utm_campaign=SAP_Linkedin&utm_source=LinkedinJobPostings)|Cairo, Egypt|
+|Misr Technology Services|2026 Summer Internship|[Link](https://misrtechnologyservices.applytojob.com/apply/kVYQVBE6iG/MTS-2026-Summer-Internship?source=LILI)|Cairo, Egypt|
+|Nokia|NI DS AI Summer Trainee|[Link](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36168?utm_medium=jobshare&src=SNS-102)|Cairo, Egypt|
 
 ## Getting Started
 
@@ -147,6 +132,32 @@ Mock interviews offer simulated interview experiences, aiding in confidence-buil
 - You can also fill out the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfzVsPvHiZRCtIhmAFrgtnGB79qaFUkITbK_VFuI3PzQZw5rg/formResponse) to provide internships or suggest additions to the guide.
 - Feel free to open issues for discussions, inquiries, suggestions, or any additional resources that could benefit other students.
 # Archived Internships
+
+## Internships 2025
+
+| Company          | Internship Title                                           | Link                                                                                                                                                                                         | Location              |
+| ---------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+|Advansys|Software Engineer Internship|[Link](https://www.linkedin.com/jobs/view/4161429992/)|Cairo, Egypt|
+|Capgemini|Young Professionals Program|[Link](https://www.linkedin.com/posts/rana-magdy-a05303184_fill-young-professionals-program-application-activity-7287055400690970624-Pnll/?utm_source=share&utm_medium=member_ios)|Cairo, Egypt|
+|Sumerge|Software Engineer Talent Program|[Link](https://apply.workable.com/sumerge-1/j/3E3E9AB6D4/)|Cairo, Egypt|
+|Woven by Toyota|Research Scientist, Computer Vision and Generative Models, Vision AI (Internship)|[Link](https://jobs.lever.co/woven-by-toyota/042e35e9-607b-4bf0-8786-e53768010a5b/apply)|Tokyo, Japan|
+|Google Summer of Code|Contribution/Mentorship Program|[Link](https://summerofcode.withgoogle.com/)|Remote|
+|PWC|ETIC, Full stack Developer- Graduate Program|[Link](https://www.linkedin.com/jobs/view/4029805426)|Cairo, Egypt|
+|PWC|ETIC, Winter Internship Program - Project Management|[Link](https://www.linkedin.com/jobs/view/4081767524)|Cairo, Egypt|
+|Bayantech|Frontend React.js Internship|[Link](https://www.linkedin.com/jobs/view/4169173248)|Cairo, Egypt|
+|Bayantech|Backend Node.JS Internship|[Link](https://www.linkedin.com/jobs/view/4169166921)|Cairo, Egypt|
+|Didi|Web & Store Intern|[Link](https://www.linkedin.com/jobs/view/4183688404)|Cairo, Egypt|
+|Jumia|Internship Program - Java Developer|[Link](https://www.linkedin.com/jobs/view/4109280112)|Cairo, Egypt|
+|Jumia|Software Engineer Internship Global Program|[Link](https://www.linkedin.com/jobs/view/4110266446)|Cairo, Egypt|
+|Siemens|Fit4Rail Summer Internship 2025|[Link](https://www.linkedin.com/jobs/view/4133086533)|Cairo, Egypt|
+|Siemens|Working Student|[Link](https://www.linkedin.com/jobs/view/4171475634)|Cairo, Egypt|
+|Cisco|ASIC Engineer - Full time Summer internship |[Link](https://www.linkedin.com/jobs/view/4104640320)|Cairo, Egypt|
+|Oracle|Graduate Associate Engineer|[Link](https://www.linkedin.com/jobs/view/4169633882)|Cairo, Egypt|
+|Canonical|Graduate Software Engineer|[Link](https://www.linkedin.com/jobs/view/4180956949)|Cairo, Egypt|
+|Arcsen|Internship Program|[Link](https://www.linkedin.com/jobs/view/4098079887)|Cairo, Egypt|
+|Blink22|UI/UX Design Intern|[Link](https://www.linkedin.com/jobs/view/4090264521)|Cairo, Egypt|
+|Remotecoders|Internship Program|[Link](https://www.linkedin.com/posts/remotecoders-mena_vulnerable-talents-tech-activity-7307679074880020481-Q5EO?utm_source=share&utm_medium=member_desktop&rcm=ACoAADf-4-QBS1UGcLbX54TIGqpMv3miqWSq5F0)|Cairo, Egypt|
+
 ## Internships 2024
 
 | Company          | Internship Title                                           | Link                                                                                                                                                                                         | Location              |
