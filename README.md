@@ -63,6 +63,7 @@ Crafting polished resumes and cover letters is essential to make a compelling fi
 - [Resume Templates](https://www.indeed.com/career-advice/resume-samples)
 - [Resume Worded](https://resumeworded.com/)
 - [Jobscan](https://www.jobscan.co/)
+- [CVExpert ATS Health Check](https://cvexpert.com/tools/ats-health-check) - Free, no-signup checks for common ATS readability issues; pasted text stays in the browser.
 - [Resumake](https://resumake.io/)
 - [Canva](https://www.canva.com/templates/resumes/)
 - [overleaf](https://www.overleaf.com/latex/templates/tagged/cv)
