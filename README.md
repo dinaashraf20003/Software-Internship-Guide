@@ -67,6 +67,7 @@ Crafting polished resumes and cover letters is essential to make a compelling fi
 - [Canva](https://www.canva.com/templates/resumes/)
 - [overleaf](https://www.overleaf.com/latex/templates/tagged/cv)
 - [FlowCV](https://app.flowcv.com/)
+- [ResumeInvited](https://resumeinvited.com/) — Free browser-based resume builder with live preview and PDF or editable Word export, without an account.
 
 ### Cover Letter Templates:
 
