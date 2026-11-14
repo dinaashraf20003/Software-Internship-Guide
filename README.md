@@ -63,6 +63,7 @@ Crafting polished resumes and cover letters is essential to make a compelling fi
 - [Resume Templates](https://www.indeed.com/career-advice/resume-samples)
 - [Resume Worded](https://resumeworded.com/)
 - [Jobscan](https://www.jobscan.co/)
+- [CheckATS](https://checkats.app/) — Preview the text an ATS can read from a resume and compare it with an internship description.
 - [Resumake](https://resumake.io/)
 - [Canva](https://www.canva.com/templates/resumes/)
 - [overleaf](https://www.overleaf.com/latex/templates/tagged/cv)
